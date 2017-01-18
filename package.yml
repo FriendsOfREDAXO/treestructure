@@ -1,0 +1,14 @@
+package: treestructure
+version: '1.0.3 beta'
+author: 'FriendsOfREDAXO'
+supportpage: https://github.com/FriendsOfREDAXO/treestructure
+
+page:
+    title: translate:title
+    perm: treestructure[]
+    pjax: true
+
+requires:
+    packages:
+        structure: '>=2.1.0'
+    redaxo: ^5.2.0

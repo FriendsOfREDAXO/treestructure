@@ -1,0 +1,46 @@
+# addon:treestructure de_de
+
+treestructure_title = TreeStructure
+
+treestructure_new_category = Neue Kategorie
+treestructure_new_category_save = speichern
+treestructure_new_article = Neuer Artikel
+treestructure_new_article_save = speichern
+treestructure_toggle_dropdown = Menü ein- und ausklappen
+treestructure_cancel = Abbrechen
+treestructure_template = Seiten-Template
+
+treestructure_new_article_added = Der Artikel »{0}« wurde angelegt.
+treestructure_new_article_not_added = Der Artikel »{0}« konnte nicht angelegt werden.
+treestructure_new_category_added = Die Kategorie »{0}« wurde angelegt.
+treestructure_new_category_not_added = Die Kategorie »{0}« konnte nicht angelegt werden.
+treestructure_article_edited = Der Artikel »{0}« wurde gespeichert.
+treestructure_article_not_edited = Der Artikel »{0}« konnte nicht gespeichert werden.
+treestructure_category_edited = Die Kategorie »{0}« wurde gespeichert.
+treestructure_category_not_edited = Die Kategorie »{0}« konnte nicht gespeichert werden.
+treestructure_article_not_deleted = Der Artikel konnte nicht gelöscht werden.
+treestructure_category_not_deleted = Die Kategorie konnte nicht gelöscht werden.
+treestructure_error = Ein Fehler ist aufgetreten.
+
+treestructure_confirm_deletion = Möchten Sie »{{name}}« wirklich löschen?
+treestructure_create_category = Kategorie innerhalb dieser erstellen
+treestructure_create_article = Artikel innerhalb dieser Kategorie erstellen
+treestructure_edit = Bearbeiten
+treestructure_delete = Löschen
+treestructure_open_metadata = Metadaten öffnen
+treestructure_open_functions = Funktionen öffnen
+treestructure_expand_all = Alle Unterkategorien öffnen
+treestructure_collapse_all = Alle Unterkategorien schließen
+treestructure_view_page = Seite ansehen
+treestructure_status = Status
+treestructure_article_status_0 = Der Artikel wurde offline gestellt.
+treestructure_article_status_1 = Der Artikel wurde online gestellt.
+treestructure_category_status_0 = Die Kategorie wurde offline gestellt.
+treestructure_category_status_1 = Die Kategorie wurde online gestellt.
+treestructure_category_moved = Die Kategorie »{0}« wurde verschoben.
+treestructure_category_not_moved = Die Kategorie »{0}« kann nicht verschoben werden.
+treestructure_article_moved = Der Artikel »{0}« wurde verschoben.
+treestructure_article_not_moved = Der Artikel »{0}« kann nicht verschoben werden.
+treestructure_type_in_name_to_confirm = Geben Sie den exakten Namen ein, um das Löschen zu bestätigen.
+
+treestructure_error_not_enough_rights = Sie haben keine Erlaubnis, diese Aktion durchzuführen.

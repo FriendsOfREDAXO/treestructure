@@ -1,0 +1,46 @@
+# addon:treestructure en_gb
+
+treestructure_title = TreeStructure
+
+treestructure_new_category = New category
+treestructure_new_category_save = save
+treestructure_new_article = New article
+treestructure_new_article_save = save
+treestructure_toggle_dropdown = Expand/collapse navigation
+treestructure_cancel = cancel
+treestructure_template = Page template
+
+treestructure_new_article_added = Article »{0}« has been created.
+treestructure_new_article_not_added = Article »{0}« could not be created.
+treestructure_new_category_added = Category »{0}« has been created.
+treestructure_new_category_not_added = Category »{0}« could not be created.
+treestructure_article_edited = Article »{0}« has been updated.
+treestructure_article_not_edited = Article »{0}« could not be updated.
+treestructure_category_edited = Category »{0}« has been updated.
+treestructure_category_not_edited = Category »{0}« could not be updated.
+treestructure_article_not_deleted = Cannot delete article.
+treestructure_category_not_deleted = Cannot delete category.
+treestructure_error = An error occurred.
+
+treestructure_confirm_deletion = Do you really want to remove »{{name}}«? This cannot be undone!
+treestructure_create_category = Create category within this one
+treestructure_create_article = Create article within this category
+treestructure_edit = Edit
+treestructure_delete = Delete
+treestructure_open_metadata = Meta data
+treestructure_open_functions = Functions
+treestructure_expand_all = Expand
+treestructure_collapse_all = Collapse
+treestructure_view_page = View
+treestructure_status = Status
+treestructure_article_status_0 = Article has been put offline.
+treestructure_article_status_1 = Article has been put online.
+treestructure_category_status_0 = Category has been put offline.
+treestructure_category_status_1 = Category has been put online.
+treestructure_category_moved = Category »{0}« has been moved.
+treestructure_category_not_moved = Category »{0}« cannot be moved.
+treestructure_article_moved = Article »{0}« has been moved.
+treestructure_article_not_moved = Article »{0}« cannot be moved.
+treestructure_type_in_name_to_confirm = Provide the exact name of the category to confirm the deletion.
+
+treestructure_error_not_enough_rights = You are not allowed to to that!	
