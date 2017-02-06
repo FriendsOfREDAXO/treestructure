@@ -1,3 +1,3 @@
-# treestructure
+# TreeStructure
 
-Implementiert eine Baumstruktur im Adminbereich
+Gibt die Seitenstruktur im REDAXO-Backend als Baum aus
