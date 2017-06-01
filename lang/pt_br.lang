@@ -1,0 +1,46 @@
+# addon:treestructure de_de
+
+treestructure_title = TreeStructure
+
+treestructure_new_category = Nova categoria
+treestructure_new_category_save = Salvar
+treestructure_new_article = Novo produto
+treestructure_new_article_save = Salvar
+treestructure_toggle_dropdown = Aumentar ou diminuir menu
+treestructure_cancel = Cancelar
+treestructure_template = Template da página
+
+treestructure_new_article_added = Produto »{0}« foi criado.
+treestructure_new_article_not_added = Produto »{0}« não pôde ser criado.
+treestructure_new_category_added = Categoria »{0}« foi criada.
+treestructure_new_category_not_added = Categoria »{0}« não pôde ser criada.
+treestructure_article_edited = Produto »{0}« foi atualizado.
+treestructure_article_not_edited = Produto »{0}« não pôde ser atualizado.
+treestructure_category_edited = Categoria »{0}« foi atualizada.
+treestructure_category_not_edited = Categoria »{0}« não pôde ser atualizada.
+treestructure_article_not_deleted = Artigo não pode ser deletado.
+treestructure_category_not_deleted = Categoria não pode ser deletada.
+treestructure_error = Um erro ocorreu.
+
+treestructure_confirm_deletion = Você realmente deseja remover »{{name}}«? Esta ação não pode ser desfeita.
+treestructure_create_category = Criar categoria dentro desta.
+treestructure_create_article = Criar produto dentro desta categoria
+treestructure_edit = Editar
+treestructure_delete = Deleta
+treestructure_open_metadata = Metadados
+treestructure_open_functions = Funções
+treestructure_expand_all = Expandir
+treestructure_collapse_all = Retrair
+treestructure_view_page = Visualizar página
+treestructure_status = Status
+treestructure_article_status_0 = Produto foi posto offline.
+treestructure_article_status_1 = Produto foi posto online.
+treestructure_category_status_0 = Categoria foi posta offline.
+treestructure_category_status_1 = Categoria foi posta online.
+treestructure_category_moved = Categoria »{0}« foi movida.
+treestructure_category_not_moved = Categoria »{0}«  não pode ser movida.
+treestructure_article_moved = Produto »{0}«  foi movido.
+treestructure_article_not_moved = Produto »{0}«  não pode ser movido.
+treestructure_type_in_name_to_confirm = Insira o nome correto da categoria a ser excluída.
+
+treestructure_error_not_enough_rights = Você não tem permissão para esta ação!
