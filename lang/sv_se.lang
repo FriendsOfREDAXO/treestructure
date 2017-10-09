@@ -1,0 +1,46 @@
+# addon:treestructure de_de
+
+treestructure_title = TreeStructure
+
+treestructure_new_category = Ny kategori
+treestructure_new_category_save = spara
+treestructure_new_article = ny artikel
+treestructure_new_article_save = spara
+treestructure_toggle_dropdown = Expand/collapse navigation
+treestructure_cancel = Avbryt
+treestructure_template = Sidmall
+
+treestructure_new_article_added = Artikeln »{0}« skapades.
+treestructure_new_article_not_added = Artikeln »{0}« kunde inte skapas.
+treestructure_new_category_added = Kategorien »{0}« skapades.
+treestructure_new_category_not_added = Kategorien »{0}« kunde inte skapas.
+treestructure_article_edited = Artikeln »{0}« sparades.
+treestructure_article_not_edited = Artikeln »{0}« kunde inte sparas.
+treestructure_category_edited = Kategorien »{0}« sparades.
+treestructure_category_not_edited = Kategorien »{0}« kunde inte sparas.
+treestructure_article_not_deleted = Artikeln kunde inte raderas.
+treestructure_category_not_deleted = Kategorien kunde inte raderas.
+treestructure_error = Ett fel uppstod.
+
+treestructure_confirm_deletion = Vill du verkligen radera »{{name}}«?
+treestructure_create_category = Skapa kategori inuti denna
+treestructure_create_article = Skapa artikel i denna kategori
+treestructure_edit = Redigera
+treestructure_delete = Radera
+treestructure_open_metadata = Öppna metadata
+treestructure_open_functions = Öppna funktioner
+treestructure_expand_all = Öppna alla underkategorier
+treestructure_collapse_all = Stänga alla underkategorier
+treestructure_view_page = Visa sida
+treestructure_status = Status
+treestructure_article_status_0 = Artikeln har ställt på offline.
+treestructure_article_status_1 = Artikeln har ställt på online.
+treestructure_category_status_0 = Kategorien har ställt på offline.
+treestructure_category_status_1 = Kategorien har ställt på online.
+treestructure_category_moved = Kategorien »{0}« flyttades.
+treestructure_category_not_moved = Kategorien »{0}« kunde inte flyttas.
+treestructure_article_moved = Artikeln »{0}« flyttades.
+treestructure_article_not_moved = Artikeln »{0}« kunde inte flyttas.
+treestructure_type_in_name_to_confirm = Ange det exakta namnet på kategorin för att bekräfta raderingen.
+
+treestructure_error_not_enough_rights = Du har ingen behörighet att göra detta!
