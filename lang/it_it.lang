@@ -1,0 +1,46 @@
+# addon:treestructure de_de
+
+treestructure_title = TreeStructure
+
+treestructure_new_category = Nuova categoria
+treestructure_new_category_save = salva
+treestructure_new_article = Nuovo articolo
+treestructure_new_article_save = salva
+treestructure_toggle_dropdown = 
+treestructure_cancel = Cancella
+treestructure_template = 
+
+treestructure_new_article_added = Articolo »{0}« creato.
+treestructure_new_article_not_added = Non era possibile creare l'articolo »{0}«.
+treestructure_new_category_added = Categoria »{0}« creata.
+treestructure_new_category_not_added = Non era possibile creare la categoria »{0}«.
+treestructure_article_edited = Articolo »{0}« salvato.
+treestructure_article_not_edited = Non era possibile salvare l'articolo »{0}«.
+treestructure_category_edited = Categoria »{0}« salvata.
+treestructure_category_not_edited = Non era possibile salvare la categoria »{0}«.
+treestructure_article_not_deleted = Non era possibile cancellare l'articolo.
+treestructure_category_not_deleted = Non era possibile cancellare la categoria.
+treestructure_error = Si è verificato un errore.
+
+treestructure_confirm_deletion = 
+treestructure_create_category = 
+treestructure_create_article = 
+treestructure_edit = Modifica
+treestructure_delete = Cancella
+treestructure_open_metadata = Apri meta dati
+treestructure_open_functions = Api funzioni
+treestructure_expand_all = Espandere tutte le sottocategorie
+treestructure_collapse_all = Chiudere tutte le sottocategorie
+treestructure_view_page = Mostra la pagina
+treestructure_status = Stato
+treestructure_article_status_0 = Articolo messo offline.
+treestructure_article_status_1 = Articolo messo online.
+treestructure_category_status_0 = Categoria messa offline.
+treestructure_category_status_1 = Categoria messa online.
+treestructure_category_moved = Categoria è stata spostata.
+treestructure_category_not_moved = Non era possibile spostare la categoria.
+treestructure_article_moved = Articolo è stato spostato.
+treestructure_article_not_moved = Non era possibile spostare l'articolo.
+treestructure_type_in_name_to_confirm = 
+
+treestructure_error_not_enough_rights = Non ha i diritti di eseguire l'azione.
