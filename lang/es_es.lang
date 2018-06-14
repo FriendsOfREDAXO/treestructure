@@ -1,0 +1,46 @@
+# addon:treestructure de_de
+
+treestructure_title = TreeStructure
+
+treestructure_new_category = Nueva categoría
+treestructure_new_category_save = guardar
+treestructure_new_article = Artículo nuevo
+treestructure_new_article_save = Guardar
+treestructure_toggle_dropdown = Expandir/Contraer navegación
+treestructure_cancel = Cancelar
+treestructure_template = Plantilla de página
+
+treestructure_new_article_added = Artículo »{0}« ha sido creado
+treestructure_new_article_not_added = Artículo »{0}« no se pudo crear
+treestructure_new_category_added = Categoría »{0}« ha sido creada
+treestructure_new_category_not_added = Categoría »{0}« no se pudo crear.
+treestructure_article_edited = Artículo »{0}« ha sido actualizado.
+treestructure_article_not_edited = Artículo »{0}« no se pudo actualizar
+treestructure_category_edited = Categoría »{0}« ha sido actualizada.
+treestructure_category_not_edited = Categoría »{0}« no se pudo actualizar.
+treestructure_article_not_deleted = No se puede borrar el artículo.
+treestructure_category_not_deleted = No se puede borrar la categoría.
+treestructure_error = Un error ha ocurrido.
+
+treestructure_confirm_deletion = ¿Seguro que quieres eliminar »{{name}}«?
+treestructure_create_category = Crear categoría dentro de este
+treestructure_create_article = Crear artículo en esta categoría
+treestructure_edit = Editar
+treestructure_delete = Borrar
+treestructure_open_metadata = Metadatos
+treestructure_open_functions = Funciones
+treestructure_expand_all = Abra todas las subcategorías
+treestructure_collapse_all = Cierre todas las subcategorías
+treestructure_view_page = Ver página
+treestructure_status = Estado
+treestructure_article_status_0 = El artículo ha sido desconectado.
+treestructure_article_status_1 = El artículo fue puesto en línea.
+treestructure_category_status_0 = La categoría se ha desconectado.
+treestructure_category_status_1 = La categoría ha sido puesta en línea.
+treestructure_category_moved = Categoría »{0}« ha sido movida.
+treestructure_category_not_moved = Categoría »{0}« no se puede mover.
+treestructure_article_moved = Artículo »{0}« ha sido movido
+treestructure_article_not_moved = Artículo »{0}« no se puede mover.
+treestructure_type_in_name_to_confirm = Ingrese el nombre exacto para confirmar la eliminación.
+
+treestructure_error_not_enough_rights = No tienes permiso para realizar esta acción.
