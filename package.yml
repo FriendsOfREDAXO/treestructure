@@ -12,3 +12,6 @@ requires:
     packages:
         structure: '>=2.1.0'
     redaxo: ^5.2.0
+
+installer_ignore:
+    - node_modules
